@@ -1,0 +1,24 @@
+ul {color: rgba(35, 84, 212);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+h1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    padding: 0px 10px 10px 10px;
+    background-color: rgba(35, 84, 212);
+    color: white;
+}
+h2{font-size: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform:capitalize;
+}
+input{
+    width: 50%;
+}
+.hola{
+    width: 4%;
+}
